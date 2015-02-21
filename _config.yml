@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: http://blog.nswebfrog.com
-author: webfrogs
+url: http://yuhongwei.github.io/
+author: yuhongwei
 pygments: true
 safe: true
 paginate: 16
